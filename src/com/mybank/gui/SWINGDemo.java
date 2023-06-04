@@ -1,13 +1,3 @@
-# UI Lab 3
-
-## Виконання завдання на "п'ять"
-**В ході виконнаня практичної роботи потрібно було зробити наступне:**
-* виконати завдання "на три", оскільки завдання "на п'ять" потребує виконання завдання "на три";
-* додати ще одну кнопку - report, яка має виводити звіт за клієнтами.
----
-**Програмний код класу `SWINGDemo` наведений нижче.**
-
-```java
 package com.mybank.gui;
 
 import com.mybank.data.DataSource;
@@ -116,19 +106,3 @@ public class SWINGDemo {
     }
     
 }
-```
----
-
-## **Скріншоти виконання програми наведені нижче.**
-
- ### Dropdown з вибором клієнта:
-![](https://github.com/ppc-ntu-khpi/34-gui-1-vellerii/blob/master/clients%20dropdown.png "clients dropdown")
-
----
-### Демонстрація кнопки `Show`:
-![](https://github.com/ppc-ntu-khpi/34-gui-1-vellerii/blob/master/1st%20result.png "1st result")
-
----
-
-### Демонстрація кнопки `Report`:
-![](https://github.com/ppc-ntu-khpi/34-gui-1-vellerii/blob/master/2nd%20result.png "2nd result")
